@@ -139,16 +139,3 @@ This project is a useful small-scale example of:
 - using MLPs for structured low-dimensional vision tasks
 
 It demonstrates that MLP-based classifiers can still be very effective when the input patterns are small, consistent, and information-dense.
-
----
-
-## Repository Structure
-
-```text
-MultiFontLetterRecognitionMLP/
-├── MultiFontLetterRecognition_MLP.ipynb
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── datas.m
-└── results/
